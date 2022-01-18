@@ -1,0 +1,17 @@
+[
+  {
+    "id": 4,
+    "name": "Software Engineering",
+    "framework_id": 3032
+  },
+  {
+    "id": 5,
+    "name": "Engineering Management",
+    "framework_id": 3032
+  },
+  {
+    "id": 6,
+    "name": "UX Design",
+    "framework_id": 3033
+  }
+]

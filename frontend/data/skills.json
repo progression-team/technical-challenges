@@ -1,0 +1,1493 @@
+[
+  {
+    "name": "Team Leadership",
+    "id": 1483,
+    "description": "The ability to maintain quality, efficiency and establish trust in your ability",
+    "created_at": "2020-06-24T07:41:14.646Z",
+    "updated_at": "2021-12-08T16:00:42.911Z",
+    "icon": "people",
+    "category_id": 12,
+    "skill_levels": [
+      {
+        "name": "Capable of informally managing interns, contractors, suppliers and agencies. Possibly manages one or two junior team members. Doesn't look for glory, and doesn't complain about boring work. Assumes good decisions in others work. Broadly does what they say they're going to do.",
+        "id": 7689,
+        "level": 1,
+        "examples": [
+          {
+            "content": "\u003cp\u003e\u003cstrong\u003eVulnerability\u003c/strong\u003e: You proactively admit fault and weakness in yourself to team members, and admit mistakes made in work you've done.\u003c/p\u003e"
+          },
+          {
+            "content": "\u003cp\u003e\u003cstrong\u003eReliability\u003c/strong\u003e: You are open about your intentions when making a team-level decision – for example moving people between teams or introducing new role expectations – and follow through.\u003c/p\u003e"
+          },
+          {
+            "content": "\u003cp\u003e\u003cstrong\u003eDifficult conversations\u003c/strong\u003e: You help individuals on your team with difficult personal decisions and act in an objective, professional manner.\u003c/p\u003e"
+          },
+          {
+            "content": "\u003cb\u003ePutting the team first\u003c/b\u003e: You regularly make time for listening to and understanding the people you're responsible for."
+          }
+        ]
+      },
+      {
+        "name": "Capable of managing a small team effectively. Happily sits in meetings so the team doesn't have to. Follows through on promises around work, rewards and time.",
+        "id": 7690,
+        "level": 2,
+        "examples": [
+          {
+            "content": "\u003cb\u003eVulnerability\u003c/b\u003e: You share your strengths and development areas with your team regularly, encouraging feedback and support. You own up whenever you've failed and apologise when appropriate."
+          },
+          {
+            "content": "\u003cb\u003eReliability\u003c/b\u003e: You have been consistently open about intentions and reliable when executing multiple team-level decisions affecting the working days and potential happiness of your team."
+          },
+          {
+            "content": "\u003cb\u003eDifficult conversations\u003c/b\u003e: You have had hard conversations about compensation, performance or work-related issues with members of your team, and dealt with them effectively and professionally"
+          },
+          {
+            "content": "\u003cb\u003ePutting the team first\u003c/b\u003e: You put the team first in your priority list, as demonstrated by several examples of you taking on administrative or boring work on their behalf."
+          }
+        ]
+      },
+      {
+        "name": "Capable of managing a larger team effectively. Protects the team, ensuring they're always clear on the goal, but also works to create space for them to make decisions and grow. Zero ego: open and honest with intentions, goals, failings and expectations. Dependable to a fault, leading to deep trust amongst direct reports.",
+        "id": 7691,
+        "level": 3,
+        "examples": [
+          {
+            "content": "\u003cb\u003eVulnerability\u003c/b\u003e: You make a point of asking for feedback on your actions from your team. You consciously make time for self-reflection and evaluation, which you open up for others to view. You recognise the value of being human to your team."
+          },
+          {
+            "content": "\u003cp\u003e\u003cstrong\u003eReliability\u003c/strong\u003e: You are honest and open about intentions and goals with regards to major team level decisions affecting multiple direct reports. You listen to feedback and adjust plans where possible. You deliver as promised.\u003c/p\u003e"
+          },
+          {
+            "content": "\u003cp\u003e\u003cstrong\u003eDifficult conversations\u003c/strong\u003e: Over a significant period of time you manage team-level conversations effectively, as proven by your ability to maintain a largely happy and committed team throughout your tenure.\u003c/p\u003e"
+          },
+          {
+            "content": "\u003cp\u003e\u003cstrong\u003ePutting the team first\u003c/strong\u003e: You're visibly selfless and devoted as a manager. You repeatedly put the team first in decisions which affect your workload. You give opportunities for your team to shine in situations you could take yourself.\u003c/p\u003e"
+          }
+        ]
+      },
+      {
+        "name": "\u003cp\u003eCapable of managing a team of managers. Coaching others in team leadership skills. Understands the limits of their knowledge and ensures that they're allowing the team to create their best work, without getting in the way. Manages stakeholders across the business to protect the team and work, and revels in taking on people-focused tasks.\u003c/p\u003e",
+        "id": 7692,
+        "level": 4,
+        "examples": [
+          {
+            "content": "\u003cp\u003e\u003cstrong\u003eVulnerability\u003c/strong\u003e: You not only admit weakness to your direct reports but put structures in place for them to admit weakness to you and their teams also. You foster an atmosphere of vulnerability across your wider organisation through example.\u003c/p\u003e"
+          },
+          {
+            "content": "\u003cp\u003e\u003cstrong\u003eReliability\u003c/strong\u003e: You broadcast large team-level decisions around structure, compensation or workload effectively, making it clear to all why decisions are being made. You meticulously ensure that concerns are noted and followed up.\u003c/p\u003e"
+          },
+          {
+            "content": "\u003cp\u003e\u003cstrong\u003eDifficult conversations\u003c/strong\u003e: You repeatedly mediate difficult conversations between others in your wider team, helping your direct reports to come to a good solution around performance, title, attitude or compensation with members of their teams.\u003c/p\u003e"
+          },
+          {
+            "content": "\u003cp\u003e\u003cstrong\u003ePutting the team first\u003c/strong\u003e: You repeatedly empowered your manager direct reports to make decisions about their own teams. You choose to make members of your team responsible for decisions of strategic importance when they are passionate about the outcome.\u003c/p\u003e"
+          }
+        ]
+      },
+      {
+        "name": "\u003cp\u003eCapable of managing an organisation of multiple teams across different groups, products or projects. Finds and builds managers who display great team leadership skills in themselves. Is a recognised coach for leaders in other disciplines in the organisation. Facilitates better relationships in teams outside their usual remit.\u003c/p\u003e",
+        "id": 7693,
+        "level": 5,
+        "examples": [
+          {
+            "content": "\u003cp\u003e\u003cstrong\u003eVulnerability\u003c/strong\u003e: You lead the wider business in showing the power of being fallible - making and sharing case studies of your screw-ups across the business and industry. Because of this you gain a significant level of trust and respect, and are regularly called on to coach other senior leaders and execs in vulnerability.\u003c/p\u003e"
+          },
+          {
+            "content": "\u003cp\u003e\u003cstrong\u003eReliability\u003c/strong\u003e: You plan and manage major team level decisions, that have implications for people at all levels of your wider team, clearly and efficiently. You make time for everyone's concerns and used different communication channels effectively and thoughtfully, keeping your team informed throughout.\u003c/p\u003e"
+          },
+          {
+            "content": "\u003cb\u003eDifficult conversations\u003c/b\u003e: You are regularly called on to train senior managers in conversations around performance, compensation or levelling, including outside of your reporting line. You yourself are considered an expert in coaching and mentoring others in their management duties."
+          },
+          {
+            "content": "\u003cp\u003e\u003cstrong\u003ePutting the team first\u003c/strong\u003e: You act as guardian to large organisations with multiple teams and layers for a meaningful period of time, ensuring its health while being comfortable in the shadows with many people not knowing what you do. You spend 100% of your time focused on leveraging the expertise of your reports.\u003c/p\u003e"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Communication",
+    "id": 1493,
+    "description": "The ability to communicate well with those around you with sensitivity to timeliness, medium, brevity and tone",
+    "created_at": "2020-06-24T07:41:41.483Z",
+    "updated_at": "2021-06-23T11:54:37.207Z",
+    "icon": "message-circle",
+    "category_id": 11,
+    "skill_levels": [
+      {
+        "name": "Communicates effectively with immediate peers",
+        "id": 7739,
+        "level": 1,
+        "examples": [
+          {
+            "content": "\u003cb\u003eMentoring communicators\u003c/b\u003e: You are able to reflect on your own communication style."
+          },
+          {
+            "content": "\u003cb\u003eDelivering bad news\u003c/b\u003e: You spot blockers to your work and proactively let your immediate peers know."
+          },
+          {
+            "content": "\u003cb\u003eLooking for feedback\u003c/b\u003e: You explain your thought process carefully when required by a peer."
+          },
+          {
+            "content": "\u003cb\u003eKeeping people informed\u003c/b\u003e: You keep immediate peers in the team informed as needed regarding workload and progress."
+          }
+        ]
+      },
+      {
+        "name": "Communicates with wider team, feeds back on communication of others.",
+        "id": 7740,
+        "level": 2,
+        "examples": [
+          {
+            "content": "\u003cb\u003eMentoring communicators\u003c/b\u003e: You are able to unpick the communication of others around you and offer advice and feedback."
+          },
+          {
+            "content": "\u003cb\u003eDelivering bad news\u003c/b\u003e: You recognise when you need help from outside your immediate peers and asked for it effectively."
+          },
+          {
+            "content": "\u003cb\u003eLooking for feedback\u003c/b\u003e: You consistently ask for critique on your thinking from a wider group, and inform the group which elements you're incorporating into your work."
+          },
+          {
+            "content": "\u003cb\u003eKeeping people informed\u003c/b\u003e: You communicate work updates from your peers across your wider team, and respond to feedback in a timely manner."
+          }
+        ]
+      },
+      {
+        "name": "Communicates with organisation, helps others in team to communicate",
+        "id": 7741,
+        "level": 3,
+        "examples": [
+          {
+            "content": "\u003cb\u003eMentoring communicators\u003c/b\u003e: You set up processes around more effective communication for your immediate team, and manage its implementation. You proactively offer good feedback to peers on their communication methods."
+          },
+          {
+            "content": "\u003cb\u003eDelivering bad news\u003c/b\u003e: You communicate changes of plan or slip in timelines to a broad group within your organisation and manage expectations effectively until resolution."
+          },
+          {
+            "content": "\u003cb\u003eLooking for feedback\u003c/b\u003e: You proactively ask for feedback from important stakeholders in your organisation early in your work."
+          },
+          {
+            "content": "\u003cb\u003eKeeping people informed\u003c/b\u003e: You communicate on behalf of your team to the broader organisation on important or divisive projects, handling any questions in a timely manner."
+          }
+        ]
+      },
+      {
+        "name": "\u003cp\u003eCommunicates with the wider business, including change affecting the work of others, helps teams around them to communicate better.\u003c/p\u003e",
+        "id": 7742,
+        "level": 4,
+        "examples": [
+          {
+            "content": "\u003cb\u003eMentoring communicators\u003c/b\u003e: You regularly mentor others on communication technique, unpick poor communication in your wider organisation and add process where needed. You're comfortable feeding back on the communication of your seniors."
+          },
+          {
+            "content": "\u003cb\u003eDelivering bad news\u003c/b\u003e: You communicate bad news to a group of reports or peers, ensuring that a strategy is in place to manage expectations and morale during the change. Your approach involves thoughtfully designed communication to the top levels of the organisation"
+          },
+          {
+            "content": "\u003cb\u003eLooking for feedback\u003c/b\u003e: You communicate changes in plans, organisational structure or work situation which directly affects one or more people, and manage any fall out from that change ensuring all parties stay informed and content."
+          },
+          {
+            "content": "\u003cb\u003eKeeping people informed\u003c/b\u003e: You design the process of communication to communicate with the business around strategically important projects using appropriate mediums."
+          }
+        ]
+      },
+      {
+        "name": "Communicates effectively on behalf of the business.  Communicates change affecting the work or careers of many, and coaches senior staff on communication technique.",
+        "id": 7743,
+        "level": 5,
+        "examples": [
+          {
+            "content": "\u003cb\u003eMentoring communicators\u003c/b\u003e: You spot where poor communication is leading to efficiency breakdowns on a company-wide level. You look for opportunities for change and owns the process of rolling out that change, even when it means having hard conversations yourself."
+          },
+          {
+            "content": "\u003cb\u003eDelivering bad news\u003c/b\u003e: You communicate large scale re-organisations or company restructure to many others, acting as a point of contact and representing senior management in feedback and critique sessions. You manage any ensuing conversations around layoffs or demotions effectively."
+          },
+          {
+            "content": "\u003cb\u003eLooking for feedback\u003c/b\u003e: You communicate changes of strategy, team structure or discipline for your department or group within the business, ensuring that team members and others affected are informed and given all tools needed to effectively transition."
+          },
+          {
+            "content": "\u003cb\u003eKeeping people informed\u003c/b\u003e: You represent the business in matters of product or strategy, working with senior stakeholders internally and externally to ensure that the goals of communication are met."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Developing Others",
+    "id": 1495,
+    "description": "The ability to develop the skillsets and abilities of your team",
+    "created_at": "2020-06-24T07:41:47.839Z",
+    "updated_at": "2021-04-01T10:54:06.926Z",
+    "icon": "trending-up",
+    "category_id": 12,
+    "skill_levels": [
+      {
+        "name": "Able to recognise the strengths of peers, and look for ways to support those strengths through project work. Has invested time in materials or process to support team growth. Peers see them as an informal coach.",
+        "id": 7749,
+        "level": 1,
+        "examples": [
+          {
+            "content": "\u003cb\u003eFeedback on work\u003c/b\u003e: Your feedback to peers on their work is honest, actionable and timely. You put the needs of the project over personal inhibitions. You're comfortable with having your mind changed."
+          },
+          {
+            "content": "\u003cb\u003eInvesting in process\u003c/b\u003e: You invest in your future through a process of skills assessment to define your future direction."
+          },
+          {
+            "content": "\u003cb\u003eSupporting team growth\u003c/b\u003e: You support and champion peers in their personal growth, celebrating a promotion, successful project or praise from others."
+          },
+          {
+            "content": "\u003cb\u003eIdentifying strengths\u003c/b\u003e: You recognise natural strengths in your peers which you help them to nurture."
+          }
+        ]
+      },
+      {
+        "name": "Actively looking for and honing in on the strengths of direct reports, and finding ways to up-skill them. Regularly digging into motivations and ambitions of the team, and building goals and process around them. As a result, team members visibly grow and progress over time.",
+        "id": 7750,
+        "level": 2,
+        "examples": [
+          {
+            "content": "\u003cb\u003eFeedback on work\u003c/b\u003e: Your feedback on your team's work is honest, actionable and timely. You ask what level they need feedback on and ensure you stick to that level. You don't give feedback when you don't have enough context to be useful, and expect to be wrong a significant amount of the time."
+          },
+          {
+            "content": "\u003cb\u003eInvesting in process\u003c/b\u003e: You invest in your team's development through assessment and growth-tracking, which has results in measurable completed goals."
+          },
+          {
+            "content": "\u003cb\u003eSupporting team growth\u003c/b\u003e: You support multiple reports in their personal growth, giving them opportunities to train and rewarding them when complete. You follow through on promises you set around progression through your organisation."
+          },
+          {
+            "content": "\u003cb\u003eIdentifying strengths\u003c/b\u003e: You seek out and identify natural strength in your team, which you turn into goals. This results in measurable improvements in at least one report's skillset."
+          }
+        ]
+      },
+      {
+        "name": "Has a structured process and methodology for assessing, refining and supporting the strengths and goals of their team. Spends meaningful time investing in laying groundwork for personal growth, including milestones, goals and structured opportunities. Their team are growing at above average speed.",
+        "id": 7751,
+        "level": 3,
+        "examples": [
+          {
+            "content": "\u003cb\u003eFeedback on work\u003c/b\u003e: Your feedback on multiple teams' work is strictly useful and actionable. You're able to articulate in a fair and efficient way not only what your opinion is, but why you have that opinion. In disagreement you're comfortable with having your opinion changed and invite other opinions from those around you."
+          },
+          {
+            "content": "\u003cb\u003eInvesting in process\u003c/b\u003e: You invest in rigorous and standardised skills assessment and goal-setting for your team, introducing clarity and purpose, resulting in your team growing in a more focused direction."
+          },
+          {
+            "content": "\u003cb\u003eSupporting team growth\u003c/b\u003e: You set growth targets for your team, and are clear on what is expected and how they'll be rewarded upon completion. You follow through on that promise. You establish budgets and space for active learning."
+          },
+          {
+            "content": "\u003cb\u003eIdentifying strengths\u003c/b\u003e: You find threads of passion or strength across a large team, and help team members to grow those strengths."
+          }
+        ]
+      },
+      {
+        "name": "Exports their process and mindset to other teams in the organisation. Their supporting materials and frameworks have been adopted by multiple teams, and they champion and support them. They are mentoring others in developing their own teams.",
+        "id": 7752,
+        "level": 4,
+        "examples": [
+          {
+            "content": "\u003cb\u003eFeedback on work\u003c/b\u003e: As a senior manager, you only critique work at an appropriate level, ensuring you don't undermine your team. You focus your feedback on the management abilities of the managers in your team, setting up environments and processes which encourage quality critique."
+          },
+          {
+            "content": "\u003cb\u003eInvesting in process\u003c/b\u003e: You invest in setting up processes and goals, ensuring they're maintained for a meaningful period of time, resulting in visible changes in personal growth across your organisation."
+          },
+          {
+            "content": "\u003cb\u003eSupporting team growth\u003c/b\u003e: You set systems and processes in place to help other managers reward and celebrate their team's growth, managing for any conflicts arising from promotions. Your systems are used or applied to other teams outside your own. "
+          },
+          {
+            "content": "\u003cb\u003eIdentifying strengths\u003c/b\u003e: You systemise the discovery, assessment and investment in strengths across wide parts of the organisation. You have a gut instinct for what people love and will be good at."
+          }
+        ]
+      },
+      {
+        "name": "Is an industry-recognised expert. Regularly talks, blogs or otherwise promotes the team. Multiple teams using their frameworks internally with demonstrable results.",
+        "id": 7753,
+        "level": 5,
+        "examples": [
+          {
+            "content": "\u003cb\u003eFeedback on work\u003c/b\u003e: You cultivate a culture of healthy critique in your organisation. You can point to multiple processes and methods introduced or encouraged by you to allow teams to run critique in more effective ways. You restrict your critique to the skills you are a true expert in, around leadership."
+          },
+          {
+            "content": "\u003cb\u003eInvesting in process\u003c/b\u003e: You're leading the charge in personal development company wide. You've opened up your process and are actively advocating for it to improve the quality of  careers in as wide a sphere as possible. You continue to support and mentor alumni after they leave."
+          },
+          {
+            "content": "\u003cb\u003eSupporting team growth\u003c/b\u003e: You're a champion of your team and the wider business growth. You've ensured that month on month anyone within your organisation has clear goals and you're helping them to meet and exceed them."
+          },
+          {
+            "content": "\u003cb\u003eIdentifying strengths\u003c/b\u003e: You have a deep understanding of the relative personality types, strengths and development areas of your discipline. You use this knowledge to be able to assess and amplify strengths in a short space of time, across the organisation."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Culture and Togetherness",
+    "id": 1496,
+    "description": "The ability to bring groups together and foster a happy and productive environment",
+    "created_at": "2020-06-24T07:41:49.915Z",
+    "updated_at": "2021-04-01T10:55:30.889Z",
+    "icon": "people",
+    "category_id": 12,
+    "skill_levels": [
+      {
+        "name": "Is conscious of signalling, and tries to act as they would expect other team members to act. Works to develop good positive relationships. Participates in team activities.",
+        "id": 7754,
+        "level": 1,
+        "examples": [
+          {
+            "content": "\u003cb\u003eDeveloping personal relationships\u003c/b\u003e: You have good personal relationships with peers, senior colleagues and team."
+          },
+          {
+            "content": "\u003cb\u003eEncouraging diverse opinions\u003c/b\u003e: You actively contribute to diversity and inclusion discussions. You support and champion efforts towards a fairer safer workplace."
+          },
+          {
+            "content": "\u003cb\u003eSetting an example\u003c/b\u003e: You act as you would expect others more junior than you to act, including working hours, timeliness, and using learning and development budgets."
+          }
+        ]
+      },
+      {
+        "name": "Actively signals according to behaviour they want to see. Keeps a cool head around others even in stressful situations. Is involved in the planning and organising of team activities.",
+        "id": 7755,
+        "level": 2,
+        "examples": [
+          {
+            "content": "\u003cb\u003eDeveloping personal relationships\u003c/b\u003e: You invest in the relationships you are fostering with your team. You respect the sanctity of pastoral care and 1:1 time. You don't cancel and are never late."
+          },
+          {
+            "content": "\u003cb\u003eEncouraging diverse opinions\u003c/b\u003e: You help to organise and activate efforts towards a fairer, more diverse and safer workplace."
+          },
+          {
+            "content": "\u003cb\u003eSetting an example\u003c/b\u003e: You state your expectations of how your team should work and act, then demonstrate those expectations yourself. You ask for feedback on your signalling and make a changes where appropriate."
+          }
+        ]
+      },
+      {
+        "name": "Works to build and document behaviours they expect to see. Has trusted relationships with both junior colleagues and peers, and can describe where the organisation is strong or needs development. Organises regular team activities.",
+        "id": 7756,
+        "level": 3,
+        "examples": [
+          {
+            "content": "\u003cb\u003eDeveloping personal relationships\u003c/b\u003e: You make a point of knowing all about the people who report directly to you. You build close yet professional relationships with all direct reports fostering good levels of trust."
+          },
+          {
+            "content": "\u003cb\u003eEncouraging diverse opinions\u003c/b\u003e: You're leading efforts to improve diversity in your everyday environment, organising working groups, events and discussion across large parts of your organisation."
+          },
+          {
+            "content": "\u003cb\u003eSetting an example\u003c/b\u003e: You make an effort to document a cultural charter for your team, which you cite regularly and stick to rigorously. If you break your rules, you expect to be called out."
+          }
+        ]
+      },
+      {
+        "name": "Has built themselves into an important cultural guardian through both signalling and empowering others. Goes out of their way to promote good behaviour and safeness for all. Is sharing the team's culture and wellbeing outwardly",
+        "id": 7757,
+        "level": 4,
+        "examples": [
+          {
+            "content": "\u003cb\u003eDeveloping personal relationships\u003c/b\u003e: You're close enough to both your reports and your peers to be able to spot and debug issues with culture early and often. You can predict how people will work together and interact because you know their viewpoints on the world. You're coaching other leaders in their 1:1 and interpersonal techniques."
+          },
+          {
+            "content": "\u003cb\u003eEncouraging diverse opinions\u003c/b\u003e: You're a core part of, or leading, a central initiative towards a fairer and safer workplace for all, including touching hiring strategy and coaching for key staff. You're a vocal champion for under-represented groups. You create safe spaces for debate."
+          },
+          {
+            "content": "\u003cb\u003eSetting an example\u003c/b\u003e: You actively call out peers and seniors who you feel don't signal correctly to your team and yourself. You work to educate those in positions of power to be conscious of the example they're setting."
+          }
+        ]
+      },
+      {
+        "name": "Is building, or has built, a world-renowned culture, and is actively leveraged it outwardly. Has built a culture of openness and security for all staff across their organisation. Facilitates, empowers and champions others in their creation of team culture.",
+        "id": 7758,
+        "level": 5,
+        "examples": [
+          {
+            "content": "\u003cb\u003eDeveloping personal relationships\u003c/b\u003e: You're setting the bar company-wide for how to have good, trusted 1:1 relationships and maintain a close-knit team. You spend meaningful time with leaders who are struggling to connect - helping them to value and enjoy personal relationships with demonstrable effects."
+          },
+          {
+            "content": "\u003cb\u003eEncouraging diverse opinions\u003c/b\u003e: You're turning the business into a recognised leader in diversity efforts - ensuring that not only are staff feeling happy and safe, but customers, clients and the wider industry is improving. This may involve speaking, writing or otherwise publicising your efforts."
+          },
+          {
+            "content": "\u003cb\u003eSetting an example\u003c/b\u003e: You're setting the cultural standard for your organisation - both documenting, championing and demonstrating the values you expect of everyone. You've built a position of cultural leadership business-wide."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Hiring and Org Design",
+    "id": 1497,
+    "description": "The ability to understand the needs of the business and ensure that your team can meet them",
+    "created_at": "2020-06-24T07:41:53.492Z",
+    "updated_at": "2021-04-01T10:56:55.227Z",
+    "icon": "person-add",
+    "category_id": 12,
+    "skill_levels": [
+      {
+        "name": "A competent interviewer. Able to follow a structured hiring process, and make a decision.",
+        "id": 7759,
+        "level": 1,
+        "examples": [
+          {
+            "content": "\u003cb\u003eHiring\u003c/b\u003e: You are regularly part of hiring panels, and have been hiring manager for at least one hire that passed probation."
+          },
+          {
+            "content": "\u003cb\u003eEmployer Brand\u003c/b\u003e: You've helped to establish the company as a good employer through promotion on stage or online. You've inputted into the company's careers pages."
+          },
+          {
+            "content": "\u003cb\u003eDeploying teams\u003c/b\u003e: You've carved out an additional role for yourself or peers to fulfil a need that a team has."
+          }
+        ]
+      },
+      {
+        "name": "An experienced hiring manager. Involved in planning head count and hiring plans, and decisions to create new disciplines and teams as the company needs.",
+        "id": 7760,
+        "level": 2,
+        "examples": [
+          {
+            "content": "\u003cb\u003eHiring\u003c/b\u003e: You regularly lead hiring panels, and are been a part of designing the process in which your discipline hires overall. You've personally hired several designers who have passed probation and gone on to perform well."
+          },
+          {
+            "content": "\u003cb\u003eEmployer Brand\u003c/b\u003e: You help to define and improve your team's employer brand. You create content or promotion to help the team."
+          },
+          {
+            "content": "\u003cb\u003eDeploying teams\u003c/b\u003e: You help establish supporting teams or disciplines in the business."
+          }
+        ]
+      },
+      {
+        "name": "Managing a team's hiring process end to end. Thoughtful design of the process results in great hires and retention.",
+        "id": 7761,
+        "level": 3,
+        "examples": [
+          {
+            "content": "\u003cb\u003eHiring\u003c/b\u003e: You design the hiring process for your team, ensuring it's fair and diverse. You consciously design the candidate experience from application to first day on the job and beyond. You write strong job descriptions which encourage diverse candidates."
+          },
+          {
+            "content": "\u003cb\u003eEmployer Brand\u003c/b\u003e: You lead processes to improve your wider organisation's employer brand, organising team members to do outreach and create content, with measurable impact on candidate pipelines and employee pride."
+          },
+          {
+            "content": "\u003cb\u003eDeploying teams\u003c/b\u003e: You lead the deployment of a new disciplines or teams. You hire into that discipline, championing it and ensuring its success when it arrives. If it's no longer needed, you are the first to decide to redeploy the team members elsewhere."
+          }
+        ]
+      },
+      {
+        "name": "Capable of managing hiring processes across multiple teams and departments. Makes exceptional hiring decisions. Spends meaningful time improving employer brand at all touch-points.",
+        "id": 7762,
+        "level": 4,
+        "examples": [
+          {
+            "content": "\u003cb\u003eHiring\u003c/b\u003e: You organise a hiring process across multiple departments which ensures a thorough, rigorous and fair process which makes it easy for multiple hiring panels to assess consistently. You provide scripts and interview training, and source new members of hiring panels."
+          },
+          {
+            "content": "\u003cb\u003eEmployer Brand\u003c/b\u003e: You ensure regular activity and significant investment around improving employer brand for your wider department."
+          },
+          {
+            "content": "\u003cb\u003eDeploying teams\u003c/b\u003e: You assist with the deployment or re-organisation of teams, ensuring that they are embedded, understood, supported and effective. You hire into disciplines outside your own, and work with peers in other departments to make that happen."
+          }
+        ]
+      },
+      {
+        "name": "Runs an exceptional hiring process across an organisation. Captures fantastic, diverse and interesting candidates then assesses them fairly, resulting in a high quality team. Ensures the team has everyone it needs to support the business.",
+        "id": 7763,
+        "level": 5,
+        "examples": [
+          {
+            "content": "\u003cb\u003eHiring\u003c/b\u003e: You're consulting on hiring across teams far from your own, due to your diligence to a hiring process. You've improved the experience of joining the company with measurable benefits to team growth and new joiner success levels. Your process for your teams is robust and grows as teams do. Because of you, the standard of hires across the business is higher."
+          },
+          {
+            "content": "\u003cb\u003eEmployer Brand\u003c/b\u003e: You ensure regular activity and significant investment in improving employer brand for the entire business - using your team to facilitate a higher perception of the company. You have ownership of the employer brand, and see it as your personal mission to establish the company as world-leading."
+          },
+          {
+            "content": "\u003cb\u003eDeploying teams\u003c/b\u003e: You've established an entirely new skillset at your organisation. You find experts in that field and utilised them to ensure you're setting that discipline up for success. You're advocating business or industry-wide for those disciplines and their impact on the quality or efficiency of your team's output."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Stakeholder Management",
+    "id": 1502,
+    "description": "The ability to ensure that teams are protected and expectations are set correctly",
+    "created_at": "2020-06-24T07:42:07.067Z",
+    "updated_at": "2021-04-01T10:59:58.108Z",
+    "icon": "globe",
+    "category_id": 12,
+    "skill_levels": [
+      {
+        "name": "Is able to keep tangential teams informed and expectations managed around everyday work updates. Uses judgement about others' reaction when disclosing information and opinions.",
+        "id": 7784,
+        "level": 1,
+        "examples": [
+          {
+            "content": "\u003cb\u003eProtecting the team\u003c/b\u003e: You manage a client or stakeholder relationship for a project."
+          },
+          {
+            "content": "\u003cb\u003eEngendering Trust\u003c/b\u003e: You bring stakeholders or clients into a process in a way that makes best use of their time and  their strengths."
+          },
+          {
+            "content": "\u003cb\u003eForesight\u003c/b\u003e: You work to inform departments, stakeholders or clients of an issue they face without being asked or expected to do so."
+          },
+          {
+            "content": "\u003cb\u003eManaging Goals and Expectations\u003c/b\u003e: You lead on successful projects with external clients, internal stakeholders or partners with a successful outcome, ensuring goals are understood throughout."
+          }
+        ]
+      },
+      {
+        "name": "Known for being efficient and reliable, and doing what they say they will do. Proactively managed expectations even when it results in frustration or personal reputation risk.",
+        "id": 7785,
+        "level": 2,
+        "examples": [
+          {
+            "content": "\u003cb\u003eProtecting the team\u003c/b\u003e: You create space for others in your team to do their best work by managing client or stakeholder relationships."
+          },
+          {
+            "content": "\u003cb\u003eEngendering Trust\u003c/b\u003e: You run several small to medium sized projects in a leadership capacity, working closely with clients and stakeholders with positive reviews."
+          },
+          {
+            "content": "\u003cb\u003eForesight\u003c/b\u003e: You anticipate issues or requirements on projects in advance and work to raise those with key people outside your team. This has resulted in noticeable efficiency gains."
+          },
+          {
+            "content": "\u003cb\u003eManaging Goals and Expectations\u003c/b\u003e: You lead multiple smaller projects with external clients or internal stakeholders, with a successful outcome."
+          }
+        ]
+      },
+      {
+        "name": "Is able to proactively inform stakeholders both within and outside the organisation with pertinent and timely information, including bad news. Able to read and adapt to personalities across the organisation. Has good relationships with all key stakeholders.",
+        "id": 7786,
+        "level": 3,
+        "examples": [
+          {
+            "content": "\u003cb\u003eProtecting the team\u003c/b\u003e: You protect direct reports from difficult stakeholders across multiple projects."
+          },
+          {
+            "content": "\u003cb\u003eEngendering Trust\u003c/b\u003e: You've repeatedly proven yourself able to work closely with clients or stakeholders in ways that earn respect and results. You use their time wisely and lean into their knowledge."
+          },
+          {
+            "content": "\u003cb\u003eForesight\u003c/b\u003e: You look for misalignment across large scopes of work involving multiple clients or stakeholders, and ensure that they're smoothed out in advance."
+          },
+          {
+            "content": "\u003cb\u003eManaging Goals and Expectations\u003c/b\u003e: You lead multiple larger projects with external clients or internal stakeholders, including managing bad news and scope creep or timeline slippage, with successful outcomes."
+          }
+        ]
+      },
+      {
+        "name": "An expert at understanding everyone's motivations and drives, and adapting communication and priorities to fit them. Protects others, including when it results in hard conversations. Maintains good relationships with all key stakeholders even when challenging.",
+        "id": 7787,
+        "level": 4,
+        "examples": [
+          {
+            "content": "\u003cb\u003eProtecting the team\u003c/b\u003e: You protect embattled teams from being thrown off course, identifying difficult clients and stakeholder roadblocks, resolving issues."
+          },
+          {
+            "content": "\u003cb\u003eEngendering Trust\u003c/b\u003e: You're a key contact for stakeholders or external clients, funnelling work and information to them as you see fit. They ask for you to be involved in processes and meetings due to your respect for their time and needs."
+          },
+          {
+            "content": "\u003cb\u003eForesight\u003c/b\u003e: Your foresight has been proven over multiple projects involving multiple teams. You act as the stakeholder or client in order to tease out extra requirements, due to your deep understanding of their incentives."
+          },
+          {
+            "content": "\u003cb\u003eManaging Goals and Expectations\u003c/b\u003e: You lead entire client or stakeholder relationships over the course of multiple quarters across successful and unsuccessful projects whilst maintaining good outcomes."
+          }
+        ]
+      },
+      {
+        "name": "A seasoned facilitator, mediator, champion and aide.  Seen as eminently trustworthy, honest, efficient. Tasked with major updates, meetings and relationships across the business. Exceptional relationships across the company and industry, and a known skill for diplomacy.",
+        "id": 7788,
+        "level": 5,
+        "examples": [
+          {
+            "content": "\u003cb\u003eProtecting the team\u003c/b\u003e: You're a fierce defender of the productivity of the wider organisation, ensuring that the rest of the business or key clients understand what they do at all times and protecting them from undue overhead."
+          },
+          {
+            "content": "\u003cb\u003eEngendering Trust\u003c/b\u003e: You are a key ally to stakeholders and clients, respecting their expertise while pushing them for decisions, time and resource when needed, across all large scale projects."
+          },
+          {
+            "content": "\u003cb\u003eForesight\u003c/b\u003e: You're able to anticipate and debug fundamental issues and misaligned incentives across the entire product suite, business or client base. You have used this across dozens of projects to ensure that projects run smoothly every time even with difficult stakeholders."
+          },
+          {
+            "content": "\u003cb\u003eManaging Goals and Expectations\u003c/b\u003e: You've lead an entire suite of work across the business, involving multiple challenging stakeholders or clients, over the course of several years, maintaining and strengthening relationships and trust to the point where you're central to those relationships company-wide."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Initiative",
+    "id": 1568,
+    "description": "The ability to use your judgment to make decisions and do things without needing to be told what to do",
+    "created_at": "2020-06-24T07:42:56.639Z",
+    "updated_at": "2021-04-06T11:42:58.255Z",
+    "icon": "flash",
+    "category_id": 11,
+    "skill_levels": [
+      {
+        "name": "Doesn't wait to be asked. Open minded about their own skillset.",
+        "id": 8111,
+        "level": 1,
+        "examples": [
+          {
+            "content": "\u003cp\u003e\u003cstrong\u003eFollow through\u003c/strong\u003e: You take on small pieces of work with ill-defined or unknown requirements and help to push through to a successful outcome.\u003c/p\u003e"
+          },
+          {
+            "content": "\u003cb\u003ePro-activity in seeking help\u003c/b\u003e: If you're stuck on something, you seek help quickly from the correct party."
+          },
+          {
+            "content": "\u003cb\u003eCan-do attitude\u003c/b\u003e: You repeatedly demonstrate a positive attitude when given new projects."
+          }
+        ]
+      },
+      {
+        "name": "Relentlessly positive in pursuing new ways to solve a problem.",
+        "id": 8112,
+        "level": 2,
+        "examples": [
+          {
+            "content": "\u003cb\u003eFollow through\u003c/b\u003e: You lead medium to large projects with unknown requirements and helped drive to a successful outcome."
+          },
+          {
+            "content": "\u003cb\u003ePro-activity in seeking help\u003c/b\u003e: When your team is stuck on something, you are quick to suggest that you all adjust focus, reframe a problem or talk to someone new."
+          },
+          {
+            "content": "\u003cb\u003eCan-do attitude\u003c/b\u003e: You see opportunity in every piece of work, however outwardly mundane or solved."
+          }
+        ]
+      },
+      {
+        "name": "\u003cp\u003eRefuses to believe that anything is unachievable. Infectious desire to activate and progress. Like a rocket: just light the fuse.\u003c/p\u003e",
+        "id": 8113,
+        "level": 3,
+        "examples": [
+          {
+            "content": "\u003cb\u003eFollow through\u003c/b\u003e: You adapt your skillset and knowledge to lead large or complex projects to a successful outcome."
+          },
+          {
+            "content": "\u003cb\u003ePro-activity in seeking help\u003c/b\u003e: You recognise a lack of expertise in yourself and your organisation, and pro-actively found that expertise in areas not given to you. This leads to a successful outcome on more than one occasion."
+          },
+          {
+            "content": "\u003cb\u003eCan-do attitude\u003c/b\u003e: You're constantly creating new opportunities for yourself and those around you. Your team is celebrated for innovation as a result of your contributions."
+          }
+        ]
+      },
+      {
+        "name": "Asks a lot, expects the impossible. Drives others to create their best work. Sees opportunities in everything.",
+        "id": 8114,
+        "level": 4,
+        "examples": [
+          {
+            "content": "\u003cb\u003eFollow through\u003c/b\u003e: You're deeply involved in projects which require your ability to move through uncertainty. You adapt your skillset appropriately for those projects, morphing into what the projects need you to be."
+          },
+          {
+            "content": "\u003cb\u003ePro-activity in seeking help\u003c/b\u003e: You build relationships with people across your organisation without being asked, expressly for the purpose of boosting your ability to achieve great results."
+          },
+          {
+            "content": "\u003cb\u003eCan-do attitude\u003c/b\u003e: You take ill-defined requirements and lead a large group within your organisation to make progress on them."
+          }
+        ]
+      },
+      {
+        "name": "\u003cp\u003eA visionary. Optimism in the face of seemingly impossible odds, on an existential scale. Unafraid to speak truth to power.\u003c/p\u003e",
+        "id": 8115,
+        "level": 5,
+        "examples": [
+          {
+            "content": "\u003cb\u003eFollow through\u003c/b\u003e: You thrive in the unknowns on a company level. You've led more than one new core strategic initiative, taking ideas and unsolved problems and enthusiastically solving them."
+          },
+          {
+            "content": "\u003cb\u003ePro-activity in seeking help\u003c/b\u003e: You see opportunities to approach or work with external parties in a major strategic or tactical manner, leading to significant improvement in outcome."
+          },
+          {
+            "content": "\u003cb\u003eCan-do attitude\u003c/b\u003e: You activate and galvanise people around you at the highest level, as proven in several business-scale new initiatives originating from yourself."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Objectivity \u0026 Adaptability",
+    "id": 22838,
+    "description": "The ability to deal with problems based on conditions that really exist, rather than following fixed theories, ideas, or rules, and to adapt to suit different conditions",
+    "created_at": "2021-04-01T10:06:29.375Z",
+    "updated_at": "2021-04-01T10:06:29.687Z",
+    "icon": "star",
+    "category_id": 11,
+    "skill_levels": [
+      {
+        "name": "Able to be objective in evaluating their own work and comfortable and accepting of new contexts and roles.",
+        "id": 112849,
+        "level": 1,
+        "examples": [
+          {
+            "content": "\u003cb\u003eTime management\u003c/b\u003e: You look to reduce or change the scope of your work to meet a timeline or criteria not set by you."
+          },
+          {
+            "content": "\u003cb\u003eObjectivity\u003c/b\u003e: You allow your plan to be changed by new information."
+          },
+          {
+            "content": "\u003cb\u003eSelf improvement\u003c/b\u003e: You can name three activities which give you energy, and three which drain you."
+          },
+          {
+            "content": "\u003cb\u003eEfficient decision-making\u003c/b\u003e: You regularly make decisions regarding the direction of your own work in a timely manner."
+          }
+        ]
+      },
+      {
+        "name": "Is able to change their mind over strongly-held beliefs and pursue a new path with no loss of velocity.",
+        "id": 112850,
+        "level": 2,
+        "examples": [
+          {
+            "content": "\u003cb\u003eTime management\u003c/b\u003e: You actively flag when you think something can be achieved more quickly, even if it was your plan initially and it will involve admitting fault."
+          },
+          {
+            "content": "\u003cb\u003eObjectivity\u003c/b\u003e: You look for new information, assuming that you don't know everything. You can point to examples when you had a strong opinion changed for the better."
+          },
+          {
+            "content": "\u003cb\u003eSelf improvement\u003c/b\u003e: You use your development areas to build improvement goals for yourself and see improvements over time."
+          },
+          {
+            "content": "\u003cb\u003eEfficient decision-making\u003c/b\u003e: You help your immediate peers to make decisions based on what projects need, not what they feel most comfortable doing."
+          }
+        ]
+      },
+      {
+        "name": "Can take problems outside their skillset and quickly adapt to solve them. Helps other peers to do the same.",
+        "id": 112851,
+        "level": 3,
+        "examples": [
+          {
+            "content": "\u003cb\u003eTime management\u003c/b\u003e: You're in control of your calendar. You take no issue with not being involved in a project or meeting if it means saving you time."
+          },
+          {
+            "content": "\u003cb\u003eObjectivity\u003c/b\u003e: You are positive in the face of dramatic changes of plans. Curveballs are dealt with sensibly without frustration."
+          },
+          {
+            "content": "\u003cb\u003eSelf improvement\u003c/b\u003e: You can point to several areas of improvement resulting from your focus on improving development areas over time."
+          },
+          {
+            "content": "\u003cb\u003eEfficient decision-making\u003c/b\u003e: You help your team to make decisions in a more timely manner, breaking down assumptions about the shape of the work and encouraging people to value done over perfect."
+          }
+        ]
+      },
+      {
+        "name": "Leads others in looking for ways to better serve business or customer needs, even outside their own discipline. Willing to lead mundane but important tasks and help whole teams to move on their goals through simplifying and breaking down problems.",
+        "id": 112852,
+        "level": 4,
+        "examples": [
+          {
+            "content": "\u003cb\u003eTime management\u003c/b\u003e: You are constantly checking your own plans and the plans of your team for opportunities to change or reduce effort. You exclusively pick up the most important, not the most interesting tasks."
+          },
+          {
+            "content": "\u003cb\u003eObjectivity\u003c/b\u003e: You know which hills to die on. You recognise the importance of believability and pragmatism as a tool for moving product and business forwards, and when to stand your ground."
+          },
+          {
+            "content": "\u003cb\u003eSelf improvement\u003c/b\u003e: You build processes for yourself and others around you, diagnosing development areas and figuring out better ways of working and collaborating. You champion self improvement in your organisation."
+          },
+          {
+            "content": "\u003cb\u003eEfficient decision-making\u003c/b\u003e: You're part of decision-making teams on several major company-wide initiatives, employing appropriate processes and techniques."
+          }
+        ]
+      },
+      {
+        "name": "Not defined by any one skillset or title, often critical to the company's success in a number of areas. Utilises entire teams creatively to accomplish tasks.",
+        "id": 112853,
+        "level": 5,
+        "examples": [
+          {
+            "content": "\u003cb\u003eTime management\u003c/b\u003e: You defend your time and the time of your company, pushing decisions and work away if they can be made anywhere else or not made at all. You have an open list of your business-aligned goals and you stick to them."
+          },
+          {
+            "content": "\u003cb\u003eObjectivity\u003c/b\u003e: You use objectivity at the highest level to push through hard decisions. Despite being senior in your organisation, you maintain a forever-learning attitude."
+          },
+          {
+            "content": "\u003cb\u003eSelf improvement\u003c/b\u003e: You devote a meaningful percentage of your time to improving not only your development areas but the development areas of those around you, encouraging everyone to be more self aware. You work with senior stakeholders in helping them navigate their own strengths and development areas."
+          },
+          {
+            "content": "\u003cb\u003eEfficient decision-making\u003c/b\u003e: You're central to driving core company strategy, and regularly lead decisions around risky or ill-defined projects, due to your ability to think and move effectively and efficiently."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Empathy \u0026 Humility",
+    "id": 22839,
+    "description": "The ability to share someone else's feelings or experiences by imagining what it would be like to be in that person's situation",
+    "created_at": "2021-04-01T10:06:29.791Z",
+    "updated_at": "2021-04-01T10:06:30.156Z",
+    "icon": "star",
+    "category_id": 11,
+    "skill_levels": [
+      {
+        "name": "Able to, on a basic level, understand and build on the viewpoints of others",
+        "id": 112854,
+        "level": 1,
+        "examples": [
+          {
+            "content": "\u003cb\u003ePastoral care\u003c/b\u003e: You help others in your immediate team with problems they're facing."
+          },
+          {
+            "content": "\u003cb\u003eMediation and facilitation\u003c/b\u003e: You're attentive and thoughtful when peers present human challenges to you."
+          },
+          {
+            "content": "\u003cb\u003eUnderstanding others\u003c/b\u003e: You listen in conversations with others, and respect and acknowledge their viewpoints."
+          },
+          {
+            "content": "\u003cb\u003eCredit and blame\u003c/b\u003e: You're quick to correct when credit is misattributed. You admit fault when you don't have to."
+          }
+        ]
+      },
+      {
+        "name": "Constantly pushes for a better understanding of the needs and perspectives of those outside their own viewpoint.",
+        "id": 112855,
+        "level": 2,
+        "examples": [
+          {
+            "content": "\u003cb\u003ePastoral care\u003c/b\u003e: You've proactively developed at least one informal mentoring relationship through your ability to understand a peer or subordinate."
+          },
+          {
+            "content": "\u003cb\u003eMediation and facilitation\u003c/b\u003e: You have de-escalated disagreements amongst your peers, looking for common ground."
+          },
+          {
+            "content": "\u003cb\u003eUnderstanding others\u003c/b\u003e: You regularly and actively ask others for their opinions with the goal of better understanding where they're coming from."
+          },
+          {
+            "content": "\u003cb\u003eCredit and blame\u003c/b\u003e: You actively look to ensure praise is shared fairly when given to you. If someone else is blamed for your mistake, you own up."
+          }
+        ]
+      },
+      {
+        "name": "A great person to have in any room. Trusted by peers and their team. Can take any problem team and help them drive in the same direction.",
+        "id": 112856,
+        "level": 3,
+        "examples": [
+          {
+            "content": "\u003cb\u003ePastoral care\u003c/b\u003e: You've proactively developed multiple informal or formal mentoring relationship through your ability to understand a peer or subordinate."
+          },
+          {
+            "content": "\u003cb\u003eMediation and facilitation\u003c/b\u003e: You help teams within your organisation get closer to each other and understand each other's viewpoints."
+          },
+          {
+            "content": "\u003cb\u003eUnderstanding others\u003c/b\u003e: You are able to recognise bias in others and help them to see their peers, customers or stakeholders through fresh eyes. "
+          },
+          {
+            "content": "\u003cb\u003eCredit and blame\u003c/b\u003e: You're an ally to your peers and wider team, protecting them from undue blame and pushing praise onto them. You regularly look for opportunities to give praise publicly."
+          }
+        ]
+      },
+      {
+        "name": "Often found advocating for and representing others in conversations they cannot be in. Helps leaders to understand their teams, users and clients.",
+        "id": 112857,
+        "level": 4,
+        "examples": [
+          {
+            "content": "\u003cb\u003ePastoral care\u003c/b\u003e: You have several formal mentoring relationships with senior staff both within and outside your immediate team."
+          },
+          {
+            "content": "\u003cb\u003eMediation and facilitation\u003c/b\u003e: You're called on to facilitate groups of people, often outside your peers, due to your calm and thoughtful demeanour. You make even combative people feel calm through finding common ground."
+          },
+          {
+            "content": "\u003cb\u003eUnderstanding others\u003c/b\u003e: You're called for when any team wants to understand a group of people better. You can point to ways in which you've actively looked to dramatically improve the empathy of your organisation."
+          },
+          {
+            "content": "\u003cb\u003eCredit and blame\u003c/b\u003e: You use your position of power to redirect credit fairly, and absorb blame that isn't constructive to your team."
+          }
+        ]
+      },
+      {
+        "name": "Naturally a great peer and advisor to everyone in the organisation, to the very highest level. Knows people better than they know themselves. A gut instinct for resolving conflict helping others understand each other better.",
+        "id": 112858,
+        "level": 5,
+        "examples": [
+          {
+            "content": "\u003cb\u003ePastoral care\u003c/b\u003e: You are personally trusted by the highest levels of the organisation to advise on human understanding or strategy where it affects people."
+          },
+          {
+            "content": "\u003cb\u003eMediation and facilitation\u003c/b\u003e: You have a proven ability to guide and strengthen underperforming organisations through existential alignment issues. Your reputation as a facilitator and internal empathiser is second to none."
+          },
+          {
+            "content": "\u003cb\u003eUnderstanding others\u003c/b\u003e: Business-wide you're known as the voice of the customer, the staff, or at least one other major stakeholder. You represent the views of large groups of people externally, working to break down assumptions and stereotypes."
+          },
+          {
+            "content": "\u003cb\u003eCredit and blame\u003c/b\u003e: You've achieved greatness within your organisation, by your sense of selflessness being reciprocated. You take blame for poor performance of teams reporting to you and earn their trust."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Writing Code",
+    "id": 7964,
+    "description": "The ability to contribute high quality code to production environments",
+    "created_at": "2021-03-12T15:49:19.941Z",
+    "updated_at": "2021-03-12T15:49:20.624Z",
+    "icon": "star",
+    "category_id": 15,
+    "skill_levels": [
+      {
+        "name": "Is able to write solid code across smaller tasks and tickets",
+        "id": 38421,
+        "level": 1,
+        "examples": [
+          {
+            "content": "\u003cb\u003eLanguage:\u003c/b\u003e You're committing quality code in at least one language"
+          },
+          {
+            "content": "\u003cb\u003eDocumentation:\u003c/b\u003e You've read documentation before asking for clarification. You've contributed to docs as you work."
+          },
+          {
+            "content": "\u003cb\u003eQuality:\u003c/b\u003e Your code has generally followed correct syntax and structure, only requiring minor improvements"
+          }
+        ]
+      },
+      {
+        "name": "Is able to consistently write testable, readable code across larger more complex projects",
+        "id": 38422,
+        "level": 2,
+        "examples": [
+          {
+            "content": "\u003cb\u003eLanguage:\u003c/b\u003e You're committing quality code in at least one language and have a working understanding of other languages your team needs"
+          },
+          {
+            "content": "\u003cb\u003eDocumentation:\u003c/b\u003e You've regularly documented your code and looked to improve documentation elsewhere."
+          },
+          {
+            "content": "\u003cb\u003eQuality:\u003c/b\u003e Your code has always followed correct convention, requiring only minor improvements. You've made trade-offs knowingly. "
+          }
+        ]
+      },
+      {
+        "name": "Is able to consistently write production-ready code across large, complex projects",
+        "id": 38423,
+        "level": 3,
+        "examples": [
+          {
+            "content": "\u003cb\u003eMentoring:\u003c/b\u003e You have mentored several junior engineers around code quality"
+          },
+          {
+            "content": "\u003cb\u003eLanguage:\u003c/b\u003e You're committing quality code in any language your team needs OR you're best in class at one language"
+          },
+          {
+            "content": "\u003cb\u003eDocumentation:\u003c/b\u003e Your code is consistently self-documenting where possible. You've regularly maintained, improved and extended existing documentation unprompted."
+          },
+          {
+            "content": "\u003cb\u003eQuality:\u003c/b\u003e You're regularly trusted to lead complex and business-critical coding projects, including guiding others."
+          }
+        ]
+      },
+      {
+        "name": "Is a go-to within the team and the wider organization across multiple codebases and languages.",
+        "id": 38424,
+        "level": 4,
+        "examples": [
+          {
+            "content": "\u003cb\u003eMentoring:\u003c/b\u003e You've actively mentored multiple senior engineers across the organization around code quality"
+          },
+          {
+            "content": "\u003cb\u003eLanguage:\u003c/b\u003e You're best in class at your language of choice, and are committing quality code in other languages the organization needs."
+          },
+          {
+            "content": "\u003cb\u003eDocumentation:\u003c/b\u003e You've organised documentation for large code projects efficiently, advising others on best practices where needed."
+          },
+          {
+            "content": "\u003cb\u003eQuality:\u003c/b\u003e You're known as a hub of code knowledge across multiple teams, proposing and owning the implementation of new languages and technologies where appropriate"
+          }
+        ]
+      },
+      {
+        "name": "Is an exceptional engineer beyond the organization, contributing to pushing the craft forwards",
+        "id": 38425,
+        "level": 5,
+        "examples": [
+          {
+            "content": "\u003cb\u003eMentoring:\u003c/b\u003e You're regularly mentoring mentors, raising the quality of every team member's code"
+          },
+          {
+            "content": "\u003cb\u003eLanguage:\u003c/b\u003e You're contributing to the languages that your company uses, developing new patterns and paradigms to solve real business needs."
+          },
+          {
+            "content": "\u003cb\u003eDocumentation:\u003c/b\u003e You've led efforts to improve documentation and code skills across the organization. You've actively pushed other engineers to improve how code is understood and read."
+          },
+          {
+            "content": "\u003cb\u003eQuality:\u003c/b\u003e You've pushed the boundaries of the organization's coding practices, extending languages and libraries where needed."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Testing",
+    "id": 7963,
+    "description": "The ability to understand and implement great testing practices",
+    "created_at": "2021-03-12T15:48:50.282Z",
+    "updated_at": "2021-03-12T15:48:51.322Z",
+    "icon": "star",
+    "category_id": 15,
+    "skill_levels": [
+      {
+        "name": "Understands how to test code, and the valuable role that testing plays",
+        "id": 38416,
+        "level": 1,
+        "examples": [
+          {
+            "content": "\u003cb\u003eTaking responsibility:\u003c/b\u003e You've consistently ensured that your code passes tests before creating or merging pull requests"
+          },
+          {
+            "content": "\u003cb\u003eImproving coverage:\u003c/b\u003e You've spotted small areas of low test coverage and patched them"
+          },
+          {
+            "content": "\u003cb\u003eTesting your code:\u003c/b\u003e You consistently write solid unit tests, sometimes with help from more senior engineers"
+          }
+        ]
+      },
+      {
+        "name": "Understands the importance of a testing strategy, with growing levels of autonomy",
+        "id": 38417,
+        "level": 2,
+        "examples": [
+          {
+            "content": "\u003cb\u003eTaking responsibility:\u003c/b\u003e You've ensured that code committed by your immediate team is well tested and passing"
+          },
+          {
+            "content": "\u003cb\u003eImproving coverage:\u003c/b\u003e You've improved test coverage in adjacent areas of code to your own without being asked"
+          },
+          {
+            "content": "\u003cb\u003eTesting your code:\u003c/b\u003e You usually write detailed unit and functional tests covering edge cases as well as happy paths"
+          }
+        ]
+      },
+      {
+        "name": "Independently testing, advising the rest of the team on quality of tests",
+        "id": 38418,
+        "level": 3,
+        "examples": [
+          {
+            "content": "\u003cb\u003eTaking responsibility:\u003c/b\u003e You consistently look for and can recall quality metrics to demonstrate your test coverage, and monitor in behalf of your team."
+          },
+          {
+            "content": "\u003cb\u003eImproving coverage:\u003c/b\u003e You've worked to improve the quality of your own and your team's test coverage"
+          },
+          {
+            "content": "\u003cb\u003eTesting your code:\u003c/b\u003e You always write full tests for your code unassisted, covering all edge cases even with complex functionality."
+          }
+        ]
+      },
+      {
+        "name": "A growing leader within the team around testing strategy",
+        "id": 38419,
+        "level": 4,
+        "examples": [
+          {
+            "content": "\u003cb\u003eAdvocating for testing:\u003c/b\u003e You're an internal go-to expert when teams are thinking through testing strategy for new products and problems"
+          },
+          {
+            "content": "\u003cp\u003e\u003cstrong\u003eLeading testing strategy:\u003c/strong\u003e You've defined how your team writes and thinks through test coverage, including tooling and metrics. You've worked with other teams to ensure your strategy covers any crossover\u003c/p\u003e"
+          }
+        ]
+      },
+      {
+        "name": "A leader within the organization in terms of test strategy",
+        "id": 38420,
+        "level": 5,
+        "examples": [
+          {
+            "content": "\u003cb\u003eAdvocating for testing:\u003c/b\u003e You may be contributing to an open source library or speaking at conferences on behalf of your company around great testing strategy and tactics"
+          },
+          {
+            "content": "\u003cp\u003e\u003cstrong\u003eLeading testing strategy:\u003c/strong\u003e You're defining how your company thinks through testing. You're personally responsibly for the metrics around test coverage across the organization\u003c/p\u003e"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Software Architecture",
+    "id": 7961,
+    "description": "The ability to interact and engage with architectural approaches of the organization.",
+    "created_at": "2021-03-12T15:47:20.653Z",
+    "updated_at": "2021-03-12T15:47:21.923Z",
+    "icon": "star",
+    "category_id": 15,
+    "skill_levels": [
+      {
+        "name": "Is able to design basic functions, avoiding duplication across codebases and interface-breaking changes based on an understanding of the overall service architecture",
+        "id": 38406,
+        "level": 1,
+        "examples": [
+          {
+            "content": "\u003cb\u003eTechnical debt:\u003c/b\u003e You can usually recognize technical debt and can pay it down when advised."
+          },
+          {
+            "content": "\u003cb\u003eDesign:\u003c/b\u003e You are comfortable with the basics of code interface design, and are learning to be more intentional."
+          },
+          {
+            "content": "\u003cb\u003eReaction to feedback:\u003c/b\u003e You understand the feedback given and applies it consistently to your work."
+          }
+        ]
+      },
+      {
+        "name": "Has a good understanding of, and designs functions that are aligned with, the overall service architecture",
+        "id": 38407,
+        "level": 2,
+        "examples": [
+          {
+            "content": "\u003cb\u003eTechnical debt:\u003c/b\u003e You consistently recognize technical debt and look for opportunities to negotiate and pay it down incrementally"
+          },
+          {
+            "content": "\u003cb\u003eDevelopment:\u003c/b\u003e You consistently look for opportunities to learn from other projects and teams."
+          },
+          {
+            "content": "\u003cb\u003eDesign:\u003c/b\u003e You show a good intuition for code interface design. "
+          }
+        ]
+      },
+      {
+        "name": "Is able to consistently design code that is aligned with the overall service architecture.",
+        "id": 38408,
+        "level": 3,
+        "examples": [
+          {
+            "content": "\u003cb\u003eTechnical debt:\u003c/b\u003e You make plans with technical debt in mind, and how you will pay it down incrementally and consistently. You advise other team members on recognising and considering it"
+          },
+          {
+            "content": "\u003cb\u003eDesign:\u003c/b\u003e You have deep architectural and design pattern experience. You consult with team members only on more difficult designs. You set up new projects to ensure architectural success by anticipating future use cases and making design decisions that minimize the cost of future changes"
+          },
+          {
+            "content": "\u003cb\u003eCode:\u003c/b\u003e You are able to utilize abstractions and code isolation effectively. "
+          }
+        ]
+      },
+      {
+        "name": "Regularly works across teams to build a culture for iterative, autonomous development and future scaling.",
+        "id": 38409,
+        "level": 4,
+        "examples": [
+          {
+            "content": "\u003cb\u003eTechnical debt:\u003c/b\u003e You understand technical debt as a long-term budgeting and risk management tool. You lead on when to incur more and when to pay it down."
+          },
+          {
+            "content": "\u003cb\u003eDevelopment:\u003c/b\u003e You work with the architecture team to define cross- team architectural approaches. You sometimes employ prototyping for exploration of designs."
+          },
+          {
+            "content": "\u003cb\u003eDesign:\u003c/b\u003e You help several teams make design decisions that minimize the cost of future changes. "
+          }
+        ]
+      },
+      {
+        "name": "Works across the organization to build a culture for iterative, autonomous development and future scaling.",
+        "id": 38410,
+        "level": 5,
+        "examples": [
+          {
+            "content": "\u003cb\u003eStrategy:\u003c/b\u003e You fuse organizational strategy with technical architecture, including cross team design and code sharing. You use prototyping as a primary tool for rigorous design exploration"
+          },
+          {
+            "content": "\u003cb\u003eExperience:\u003c/b\u003e You introduce simpler and time-tested approaches to technical problems across multiple teams. "
+          },
+          {
+            "content": "\u003cb\u003eDesign:\u003c/b\u003e You lead teams in the organization in anticipation of future use cases and helps them make design decisions that minimize the cost of future changes. "
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Security",
+    "id": 7960,
+    "description": "The ability to understand and apply security principles, handle user data appropriately and report security concerns",
+    "created_at": "2021-03-12T15:46:35.403Z",
+    "updated_at": "2021-03-12T15:46:36.298Z",
+    "icon": "star",
+    "category_id": 15,
+    "skill_levels": [
+      {
+        "name": "Is able to understand the importance of security.",
+        "id": 38401,
+        "level": 1,
+        "examples": [
+          {
+            "content": "\u003cb\u003eReporting:\u003c/b\u003e You immediately report security concerns to manager or security teams."
+          },
+          {
+            "content": "\u003cp\u003e\u003cstrong\u003eUser data:\u003c/strong\u003e You understand the importance of handling user data and do so responsibly.\u003c/p\u003e"
+          },
+          {
+            "content": "\u003cb\u003eKnowledge:\u003c/b\u003e You understand basic security principles and apply them to your daily work. "
+          }
+        ]
+      },
+      {
+        "name": "Is able to understand the importance of security and starts to see work through a security lens.",
+        "id": 38402,
+        "level": 2,
+        "examples": [
+          {
+            "content": "\u003cb\u003eReporting:\u003c/b\u003e You immediately reports security concerns to manager or security teams."
+          },
+          {
+            "content": "\u003cb\u003eUser data:\u003c/b\u003e You understand the importance of handling user data and does so responsibly without exception. "
+          },
+          {
+            "content": "\u003cb\u003eKnowledge:\u003c/b\u003e You understand general security principles and apply them to your daily work. You ask more senior engineers for help on making decisions that may have security implications. "
+          }
+        ]
+      },
+      {
+        "name": "Consistently approaches all engineering work with a security lens.",
+        "id": 38403,
+        "level": 3,
+        "examples": [
+          {
+            "content": "\u003cb\u003eCollaboration:\u003c/b\u003e You work with the security teams to help refine technical strategy."
+          },
+          {
+            "content": "\u003cb\u003eProactivity:\u003c/b\u003e You actively look for security vulnerabilities both in the code and when providing peer reviews. "
+          },
+          {
+            "content": "\u003cb\u003eUser data:\u003c/b\u003e You have faultless handling of user data, and set an example for others within the team. "
+          },
+          {
+            "content": "\u003cb\u003eKnowledge:\u003c/b\u003e You have an excellent understanding of security principles and you work to better facilitate the team's understanding. "
+          }
+        ]
+      },
+      {
+        "name": "Consistently promotes a security first mindset within the team, leading by example.",
+        "id": 38404,
+        "level": 4,
+        "examples": [
+          {
+            "content": "\u003cp\u003e\u003cstrong\u003eStrategy:\u003c/strong\u003e You lead on collaboration between your team and the security teams, to refine the team's approach to security based on the organization's security strategy. You contribute to the organization's broader security strategy.\u003c/p\u003e"
+          },
+          {
+            "content": "\u003cb\u003eUser data:\u003c/b\u003e You have faultless handling of user data, setting an example within the organization."
+          },
+          {
+            "content": "\u003cp\u003e\u003cstrong\u003eKnowledge:\u003c/strong\u003e You have impeccable understanding of security principles, and regularly impart this knowledge on your team.\u003c/p\u003e"
+          }
+        ]
+      },
+      {
+        "name": "Is a leader in security strategy.",
+        "id": 38405,
+        "level": 5,
+        "examples": [
+          {
+            "content": "\u003cb\u003eStrategy:\u003c/b\u003e You lead the conversation around security within the organization. You are seen as an expert in the security field."
+          },
+          {
+            "content": "\u003cb\u003eKnowledge:\u003c/b\u003e You have impeccable understanding of security principles, and impart this knowledge on your own team, the organization, and wider tech community."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Technical Understanding and Prioritisation",
+    "id": 7957,
+    "description": "\u003cp\u003eThe ability to develop technical understanding and use this to prioritise tasks appropriately.\u003c/p\u003e",
+    "created_at": "2021-03-12T15:41:52.838Z",
+    "updated_at": "2021-03-12T15:41:54.044Z",
+    "icon": "star",
+    "category_id": 15,
+    "skill_levels": [
+      {
+        "name": "Shows some confidence in technical understanding including the importance of prioritisation",
+        "id": 38386,
+        "level": 1,
+        "examples": [
+          {
+            "content": "\u003cb\u003eTask prioritisation:\u003c/b\u003e You can plan work tasks with help from team members and manager. You deliver based on the agreed priority of works tasks."
+          },
+          {
+            "content": "\u003cb\u003eWork breakdown:\u003c/b\u003e You understand the importance of rightsizing tasks for incremental delivery plus continuous integration. "
+          },
+          {
+            "content": "\u003cb\u003eTechnical collaboration:\u003c/b\u003e You communicate accurately about all technical subjects in your work. "
+          },
+          {
+            "content": "\u003cb\u003eUnderstanding code:\u003c/b\u003e You are able to gain context within the team's domain with occasional help from more senior engineers. You are comfortable with the basics of code interface design and are learning to be more intentional "
+          }
+        ]
+      },
+      {
+        "name": "Is able to display a clear technical confidence and understanding, prioritises tasks and acts accordingly",
+        "id": 38387,
+        "level": 2,
+        "examples": [
+          {
+            "content": "\u003cb\u003eTask prioritisation:\u003c/b\u003e You act according to task prioritisation whilst noting task dependencies"
+          },
+          {
+            "content": "\u003cb\u003eWork breakdown:\u003c/b\u003e In advance of starting, you ensure that tasks are appropriately sized for incremental delivery and continuous integration, with some help from team members and your manager"
+          },
+          {
+            "content": "\u003cb\u003eTechnical collaboration:\u003c/b\u003e You can lead technical explanations when appropriate. You know when to listen and give space to team members."
+          },
+          {
+            "content": "\u003cb\u003eUnderstanding code:\u003c/b\u003e You understand a good amount of the team's domain, and can gain sufficient context to work productively within that. "
+          }
+        ]
+      },
+      {
+        "name": "Is a technical and prioritisation leader within the team, including taking some ownership of other team members' technical growth and development.",
+        "id": 38388,
+        "level": 3,
+        "examples": [
+          {
+            "content": "\u003cb\u003eTask prioritisation:\u003c/b\u003e You ensure tasks are prioritised correctly, and that dependencies are noted and well understood by the team, including at the epic level. You foster a culture of priority setting and highlight the importance of alignment with organizational strategy"
+          },
+          {
+            "content": "\u003cb\u003eWork breakdown:\u003c/b\u003e You review projects critically, ensuring they are appropriately delineated and understood by the team"
+          },
+          {
+            "content": "\u003cb\u003eTechnical collaboration:\u003c/b\u003e You actively facilitate technical discussions between team members and have a deep familiarity with technical topics under discussion"
+          },
+          {
+            "content": "\u003cb\u003eUnderstanding code:\u003c/b\u003e You understand your team's domain at a high level, including the breadth of services, how they interact, and data flows between systems. You understand adjacent domains as they affect your team"
+          }
+        ]
+      },
+      {
+        "name": "Is a technical and prioritisation leader across a set of related team's domains, consistently pushing boundaries and exploring gaps in understanding.",
+        "id": 38389,
+        "level": 4,
+        "examples": [
+          {
+            "content": "\u003cb\u003eTask prioritisation:\u003c/b\u003e You ensures cross-team dependencies are understood by all relevant stakeholders. You foster a culture of priority setting across teams and highlight the importance of alignment with organizational strategy"
+          },
+          {
+            "content": "\u003cb\u003eWork breakdown:\u003c/b\u003e You critically review work across multiple teams, ensuring it is appropriately broken down, and well understood "
+          },
+          {
+            "content": "\u003cb\u003eTechnical collaboration:\u003c/b\u003e You proactively seek out gaps in your technical understanding, and work with a variety of team members to fill those gaps."
+          },
+          {
+            "content": "\u003cb\u003eUnderstanding code:\u003c/b\u003e You have expertise in a set of related team's domains, including the breadth of services, how they interact, and data flows between systems. "
+          }
+        ]
+      },
+      {
+        "name": "Is a technical and prioritisation leader across the organization's architecture consistently pushing boundaries and exploring gaps in understanding.",
+        "id": 38390,
+        "level": 5,
+        "examples": [
+          {
+            "content": "\u003cb\u003eTask prioritisation:\u003c/b\u003e You identify cross-organization dependencies and work with individual teams to resolve them. You lead on creating preventative measures to mitigate repeat occurrences. You foster a culture of priority setting across the organization driving the importance of alignment with organizational strategy"
+          },
+          {
+            "content": "\u003cb\u003eWork breakdown:\u003c/b\u003e You critically review work across the organization, ensuring it is appropriately broken down. "
+          },
+          {
+            "content": "\u003cb\u003eTechnical collaboration:\u003c/b\u003e You have a deep technical understanding. You lead on helping team members fill gaps in their understanding."
+          },
+          {
+            "content": "\u003cb\u003eUnderstanding code:\u003c/b\u003e You have expertise in the organization's architecture, including all domains, their bounded contexts, and how they interact with each other. "
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Debugging \u0026 Monitoring",
+    "id": 7962,
+    "description": "The ability to understand and implement systematic debugging and monitoring practices to diagnose issues",
+    "created_at": "2021-03-12T15:47:59.113Z",
+    "updated_at": "2021-03-22T17:08:51.145Z",
+    "icon": "star",
+    "category_id": 15,
+    "skill_levels": [
+      {
+        "name": "Understands debugging basics, the appropriate tools to use and is beginning to implement good monitoring practices",
+        "id": 38411,
+        "level": 1,
+        "examples": [
+          {
+            "content": "\u003cb\u003ePhilosophy:\u003c/b\u003e You understand the team's monitoring philosophy and work comfortably within it."
+          },
+          {
+            "content": "\u003cb\u003eTools:\u003c/b\u003e You use out-of-the box tools to instrument and monitor systems with occasional help from senior engineers."
+          },
+          {
+            "content": "\u003cb\u003eDebugging:\u003c/b\u003e You are able do basic code profiling and optimize obvious bugs"
+          }
+        ]
+      },
+      {
+        "name": "Is able to systematically debug issues located within a single service, whilst taking greater responsibility for the monitoring systems.",
+        "id": 38412,
+        "level": 2,
+        "examples": [
+          {
+            "content": "\u003cb\u003eData:\u003c/b\u003e You understand the operational data for your team's domain."
+          },
+          {
+            "content": "\u003cb\u003ePhilosophy:\u003c/b\u003e You understand the organization's monitoring philosophy. You help tune and change the monitoring philosophy on your team."
+          },
+          {
+            "content": "\u003cb\u003eTools:\u003c/b\u003e You customize out of the box tools, and on occasion create small custom tools to instrument and monitor systems. "
+          },
+          {
+            "content": "\u003cb\u003eDebugging:\u003c/b\u003e You can do multi application and multi layer profiling without support and optimize almost all bugs "
+          }
+        ]
+      },
+      {
+        "name": "Uses systematic debugging to diagnose all issues located to a single service and drives monitoring work across the team",
+        "id": 38413,
+        "level": 3,
+        "examples": [
+          {
+            "content": "\u003cb\u003eMentoring:\u003c/b\u003e You act as a primary mentor for the rest of their team on running systems."
+          },
+          {
+            "content": "\u003cb\u003eData:\u003c/b\u003e You are aware of the operational data for your team and use it as a basis for driving changes to your team's services to achieve stability and performance improvements."
+          },
+          {
+            "content": "\u003cb\u003ePhilosophy:\u003c/b\u003e You understand the cross-functional and cross-organization implications of your team's monitoring philosophy. You proactively seek to refine the monitoring philosophy of your team."
+          },
+          {
+            "content": "\u003cb\u003eTools:\u003c/b\u003e You can judge whether a new tool is necessary to instrument and monitor systems. You can create that tool if required."
+          },
+          {
+            "content": "\u003cb\u003eDebugging:\u003c/b\u003e You use systematic debugging to diagnose cross service issues, sometimes with help from more senior engineers."
+          }
+        ]
+      },
+      {
+        "name": "Uses systematic debugging to diagnose all issues within a set of related domains and leads in fostering a culture of observability and monitoring across several teams",
+        "id": 38414,
+        "level": 4,
+        "examples": [
+          {
+            "content": "\u003cb\u003eMentoring:\u003c/b\u003e You actively seek to mentor any junior engineer or manager on running systems."
+          },
+          {
+            "content": "\u003cb\u003eProfiling:\u003c/b\u003e You can solve any profiling challenge at any layer of the stack."
+          },
+          {
+            "content": "\u003cb\u003eData:\u003c/b\u003e You are aware of the operational data for domains of several teams and use it to drive changes to the teams' services to achieve stability and performance improvements. "
+          },
+          {
+            "content": "\u003cb\u003ePhilosophy:\u003c/b\u003e You drive monitoring work across several teams based on the organization's monitoring philosophy. "
+          },
+          {
+            "content": "\u003cb\u003eDebugging:\u003c/b\u003e You use systematic debugging to diagnose cross service issues"
+          }
+        ]
+      },
+      {
+        "name": "Leads incident response, and fosters and promotes a culture of observability and monitoring across the organization.",
+        "id": 38415,
+        "level": 5,
+        "examples": [
+          {
+            "content": "\u003cb\u003eMentoring:\u003c/b\u003e You are a mentor for senior managers across the organization."
+          },
+          {
+            "content": "\u003cb\u003eData:\u003c/b\u003e Helps teams across the organization use operational data to improve stability and performance of their domains. "
+          },
+          {
+            "content": "\u003cb\u003ePhilosophy:\u003c/b\u003e You lead the organization's monitoring philosophy."
+          },
+          {
+            "content": "\u003cb\u003eDebugging:\u003c/b\u003e Uses systematic debugging to diagnose issues across the organization."
+          }
+        ]
+      }
+    ]
+  }
+]

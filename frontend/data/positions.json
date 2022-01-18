@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Software Engineer",
+    "id": 20932,
+    "description": "Able to take on larger and more impactful engineering responsibility, with less guidance. Is communicating on a wider level.",
+    "created_at": "2021-04-06T10:22:54.866Z",
+    "updated_at": "2021-04-06T10:22:54.866Z",
+    "seniority_level": 2,
+    "framework_id": 3032,
+    "dicipline_id": 4
+  },
+  {
+    "name": "Associate Engineer",
+    "id": 20931,
+    "description": "Just starting their engineering career. Learning how to take on and complete small tasks, work with immediate peers, and communicate appropriately.",
+    "created_at": "2021-04-06T10:22:54.866Z",
+    "updated_at": "2021-04-06T10:22:54.866Z",
+    "seniority_level": 1,
+    "framework_id": 3032,
+    "dicipline_id": 4
+  },
+  {
+    "name": "Senior Software Engineer",
+    "id": 20929,
+    "description": "Leading major engineering initiatives, with little to no guidance. \n\nIs communicating on a team-wide level.",
+    "created_at": "2021-04-06T10:22:54.866Z",
+    "updated_at": "2021-04-06T10:25:47.109Z",
+    "seniority_level": 3,
+    "framework_id": 3032,
+    "dicipline_id": 4
+  },
+  {
+    "name": "Engineering Manager",
+    "id": 20928,
+    "description": "Leading a small team of engineers. Involved in hiring. Communicates on a team level.",
+    "created_at": "2021-04-06T10:22:54.866Z",
+    "updated_at": "2021-04-06T10:26:22.838Z",
+    "seniority_level": 3,
+    "framework_id": 3032,
+    "discipline_id": 5
+  },
+  {
+    "name": "Senior UX Designer",
+    "id": 20927,
+    "description": "Leading major product design projects, with little to no guidance. Is communicating on a team-wide level, and responsible for a significant set of areas.",
+    "created_at": "2021-04-06T10:22:54.866Z",
+    "updated_at": "2021-04-06T10:26:22.838Z",
+    "seniority_level": 3,
+    "framework_id": 3032,
+    "discipline_id": 6
+  }
+]

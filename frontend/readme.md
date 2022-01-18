@@ -28,8 +28,10 @@ We need you to kick this off for us! Take a look at the tasks below, and make su
 #### Notes
 
 - Please treat this as if you were really pairing, so feel free to email us with questions and use google.
+- High quality work is important to us, treat this as if it was going to Production.
 - Don't worry about finishing! We'd prefer to see how you work than get everything done. **Please don't spend an
-excessive amount of time on this task—anywhere between 2 and 4 hours is plenty**.
+excessive amount of time on this task—anywhere between 2 and 4 hours is plenty**—feel free to make a note of anything
+you would do if you had more time.
 - Feel free to use the screenshot above as inspiration, rather than recreate it exactly.
 - If some instructions are a little vague, take it as an invitation to use your imagination and best judgement.
 - We're leaving technology choices up to you! Feel free to use libraries or frameworks that you think can help you get.
