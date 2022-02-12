@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Leadership",
+    "id": 12,
+    "framework_id": 3032
+  },
+  {
+    "name": "Human",
+    "id": 11,
+    "framework_id": 3032
+  },
+  {
+    "name": "Craft - Engineering",
+    "id": 15,
+    "framework_id": 3032
+  },
+  {
+    "name": "Craft - Design",
+    "id": 16,
+    "framework_id": 3033
+  }
+]
