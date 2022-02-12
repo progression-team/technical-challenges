@@ -20,7 +20,7 @@ can make it quicker, more responsive and so that it's easier to add more feature
 Here's a lightweight version of the framework page we use in our real production app:
 
 <p align="center">
-  <img src="./assets/framework.png" width="600px" alt="Framework preview" />
+  <img src="../assets/framework.png" width="600px" alt="Framework preview" />
 </p>
 
 We need you to kick this off for us! Take a look at the tasks below, and make sure to read the notes before starting.
