@@ -41,7 +41,7 @@ We need you to kick this off for us! Take a look at the tasks below, and make su
 - The API design should be RESTful and consistent, feel free to suggest a pattern or standard we should follow, you could add any thoughts or notes to a readme.
 
 
-#### 1️⃣ &nbsp;Task 1: Skills and Positions
+#### 1️⃣ &nbsp;Task 1
 Create separate endpoints that return:
 
 - A single skil for a given skill_id
@@ -53,7 +53,7 @@ Create an endpoint that returns a row positions for a given discipline ID.
 #### 3️⃣ &nbsp;Task 3
 Create an endpoint which, for a given framework ID, returns the data required to render the framework view in a single request. This should consist of skills, positions, requirements, disciplines and categories.
 
-#### 3️⃣ &nbsp;Task 4
-We just made the frontpage of Product Hunt, Reddit and Hacker News on the same day and our traffic is up 1000x and we need to improve the performance of the end points!
+#### 4️⃣ &nbsp;Task 4
+We just made the frontpage of Product Hunt, Reddit and Hacker News on the same day, our traffic is up 1000x and we need to improve the performance of the end points! Modify the code you've made in the previous tasks to reduce load on the server.
 
-For the purpose of this exercise you can assume the updated_at value for a parent is set when a child is updated, all the way up the chain. For example, when a requirement is updated, the updated_at of the parent skill, position is updated which in turns updates the category and discipline, which updates the framework.
+For the purpose of this task you can assume the updated_at value for a parent is set when a child is updated, all the way up the chain. For example, when a requirement is updated, the updated_at of the parent skill, position is updated which in turns updates the category and discipline, which updates the framework.
