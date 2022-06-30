@@ -38,16 +38,16 @@ you would do if you had more time.
 the work done quickly and to a high quality.
 
 #### 1️⃣ &nbsp;Task 1
-Show a basic list of skills, grouped by their category. You can use the data in [`skills.json`](./data/skills.json) to
+Show a basic list of skills, grouped by their category. You can use the data in [`skills.json`](/data/skills.json) to
 help you.
 
 #### 2️⃣ &nbsp;Task 2
 Create a row of positions, grouped by their discipline. You can use the data in
-[`positions.json`](./data/positions.json) to help you.
+[`positions.json`](/data/positions.json) to help you.
 
 #### 3️⃣ &nbsp;Task 3
 Fill in the table of requirements, where each requirement is the link between a skill and a position. You can use the
-data in [`requirements.json`](./data/requirements.json) to help you.
+data in [`requirements.json`](/data/requirements.json) to help you.
 
 #### 4️⃣ &nbsp;Task 4
 Create the interaction which allows a user to create a new requirement for a given skill and position, where there isn't
